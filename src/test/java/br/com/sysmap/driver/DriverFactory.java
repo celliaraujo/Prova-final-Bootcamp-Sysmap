@@ -7,7 +7,7 @@ public class DriverFactory {
 
     // Exemplo do caminho do chromedriver dentro do Windows
     // C:\\APP\\drivers\\chromedriver.exe
-    private static final String DRIVER_CHROME = "/usr/local/.app/dev/tools/drivers/chromedriver";
+    private static final String DRIVER_CHROME = "C:\\dev\\chromedriver.exe";
 
     static WebDriver driver;
 
